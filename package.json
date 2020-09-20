@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "buefy": "0.9.3",
+    "leaflet": "latest",
+    "vue": "2.6.11",
+    "vue-csv-import": "3.3.5",
+    "vue-xls-csv-parser": "0.0.21",
+    "vue2-leaflet": "2.5.2"
+  },
+  "keywords": [],
+  "name": "vue-openstreetmap-matias",
+  "description": ""
+}
